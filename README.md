@@ -132,6 +132,3 @@ blogsite/
 
 - Ensure your `.gitignore` file includes necessary files and directories to be ignored in version control. The current `.gitignore` includes `.vscode`, which is a directory for Visual Studio Code settings.
 
----
-
-Feel free to customize this README file as per your project's specific needs.
